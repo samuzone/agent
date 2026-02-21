@@ -22,7 +22,7 @@ const FEATURES = [
   {
     icon: '📊',
     title: 'Market Context',
-    desc: 'Understand what's happening in the Base ecosystem — new protocols, TVL trends, builder activity, and macro context in plain language.',
+      desc: "Understand what's happening in the Base ecosystem — new protocols, TVL trends, builder activity, and macro context in plain language.",
   },
   {
     icon: '🔗',
