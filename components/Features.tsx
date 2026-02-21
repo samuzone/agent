@@ -1,4 +1,4 @@
-const FEATURES = [
+'use client' const FEATURES = [
   {
     icon: '🔍',
     title: 'Token Analysis',
