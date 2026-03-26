@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Personalized AI analysis for the Base ecosystem. Tokens, wallets, DeFi — ask anything. Free, no registration.',
   icons: { icon: '/logo.svg' },
   openGraph: {
-    title: 'AgentOSBase — Your Onchain AI Analyst',
+    title: 'AgentOSBassse — Your Onchain AI Analyst',
     description: 'Free AI agent specialized in the Base blockchain ecosystem.',
     type: 'website',
     images: ['/twitter-banner.jpg'],
